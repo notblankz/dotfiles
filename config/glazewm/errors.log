@@ -1,0 +1,28 @@
+[2m2025-05-05T07:47:35.387048Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 152 column 7, while parsing a block mapping at line 151 column 5
+[2m2025-05-05T08:07:14.163015Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_effects.other_windows.transparency.enabled: invalid type: string "true`", expected a boolean at line 95 column 16
+[2m2025-05-05T08:07:28.208776Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_effects.other_windows.transparency.enabled: invalid type: string "true`", expected a boolean at line 95 column 16
+[2m2025-05-09T01:59:13.761975Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-05-13T02:13:49.697700Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-05-16T02:04:13.259968Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-05-16T02:04:56.587964Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-05-20T10:49:41.511884Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-05-23T02:13:57.061062Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-05-23T06:42:56.256506Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-05-26T10:02:01.608623Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-06-03T14:53:26.507467Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-06-11T03:38:03.027559Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-06-11T04:47:56.200886Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-06-18T17:36:10.725224Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-06-21T04:22:53.441472Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-07-05T02:51:17.895364Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Invalid window handle. (0x80070578)
+[2m2025-08-05T08:19:55.048845Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-08-08T05:00:15.411501Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-08-14T17:26:25.881177Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Access is denied. (0x80070005)
+[2m2025-08-19T03:45:14.175900Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-08-20T03:21:39.194267Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-08-20T04:07:10.916097Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.startup_commands: unrecognized subcommand
+ at line 6 column 21
+[2m2025-08-20T06:16:26.693366Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Program path is not valid for command 'C:\Program Files\WezTerm\wezterm-gui.exe'.
+[2m2025-08-20T09:04:18.853415Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-09-04T13:59:48.549946Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-09-05T07:27:37.486507Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
