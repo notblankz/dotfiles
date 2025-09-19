@@ -1,0 +1,1035 @@
+2025-08-19 09:29:05,528 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-19 09:29:05,529 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-19 09:29:05,529 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-19 09:29:05,583 [INFO] [MainThread] [root/config.py:61]: Created default config file at C:\Users\aahan\.config\yasb\config.yaml
+2025-08-19 09:29:05,626 [INFO] [MainThread] [root/config.py:75]: Created default stylesheet at C:\Users\aahan\.config\yasb\styles.css
+2025-08-19 09:29:06,543 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-19 09:29:09,630 [ERROR] [MainThread] [root/weather.py:168]: API key or location is missing. Please provide a valid API key and location.
+2025-08-19 09:29:09,683 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-19 09:29:11,492 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-19 09:29:11,594 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-dd273d84-7cb0-11f0-9741-089798e3bfda
+2025-08-19 09:29:11,645 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-19 09:29:11,647 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-19 09:33:53,958 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-08-19 09:33:54,059 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-19 09:33:54,059 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-19 09:33:54,076 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-19 09:33:54,086 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-19 09:33:54,088 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-19 09:33:54,112 [ERROR] [Dummy-117] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000002FCA6307610>. Removing link to WinEvent.EventObjectNameChange.
+2025-08-19 09:33:55,444 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-19 09:33:55,445 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-19 09:33:55,445 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-19 09:34:02,547 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-19 09:34:02,953 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-19 09:34:03,541 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-19 09:34:03,586 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-19 09:34:03,587 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-19 11:29:49,581 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-19 11:29:49,583 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-19 11:29:49,584 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-19 11:29:50,791 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-19 11:29:54,794 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-19 11:29:56,812 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-19 11:29:56,874 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-19 11:29:56,875 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-19 13:47:28,873 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-19 13:47:28,887 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-19 13:47:28,887 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-19 13:47:29,948 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-19 13:47:33,380 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-19 13:47:34,817 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-19 13:47:34,885 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-19 13:47:34,886 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-19 15:19:02,358 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-19 15:19:02,361 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-19 15:19:02,366 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-19 17:05:15,856 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-19 17:05:15,857 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-19 17:05:15,858 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-19 17:05:17,185 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-19 17:05:21,602 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-19 17:05:24,454 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-19 17:05:24,554 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-19 17:05:24,555 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-19 19:43:50,149 [DEBUG] [MainThread] [root/media.py:413]: Unknown source app in session: 'E7CF176E110C211B' - consider adding to source_list
+2025-08-19 19:43:52,007 [DEBUG] [MainThread] [root/media.py:413]: Unknown source app in session: 'E7CF176E110C211B' - consider adding to source_list
+2025-08-20 08:03:01,379 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-20 08:03:01,380 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-20 08:03:01,381 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-20 08:03:02,436 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-20 08:03:05,621 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-20 08:03:06,679 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-20 08:03:06,743 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-20 08:03:06,745 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-20 08:04:25,863 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-20 08:04:25,874 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-20 08:04:25,875 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-20 08:51:16,199 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-20 08:51:16,200 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-20 08:51:16,201 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-20 08:51:17,405 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-20 08:51:22,109 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-20 08:51:24,422 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-20 08:51:24,497 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-20 08:51:24,499 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-20 09:34:44,493 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-20 09:34:44,493 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-20 09:34:44,494 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-20 09:34:45,610 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-20 09:34:48,843 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-20 09:34:49,866 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-20 09:34:49,932 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-20 09:34:49,934 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-20 09:36:30,857 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:249]: CLI server received command: stop
+2025-08-20 09:36:30,857 [INFO] [Thread-1 (_run_server)] [root/controller.py:27]: Exiting Application from CLI...
+2025-08-20 09:36:30,958 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-20 09:36:30,958 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-20 09:36:30,958 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-20 09:36:30,962 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-20 09:36:30,963 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-20 09:36:30,974 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x000001A840D256D0>. Removing link to WinEvent.EventObjectDestroy.
+2025-08-20 09:38:17,591 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-20 09:38:17,593 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-20 09:38:17,593 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-20 09:38:17,850 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-20 09:38:18,063 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-20 09:38:19,527 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-20 09:38:19,589 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-20 09:38:19,590 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-20 09:38:25,585 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:249]: CLI server received command: stop
+2025-08-20 09:38:25,586 [INFO] [Thread-1 (_run_server)] [root/controller.py:27]: Exiting Application from CLI...
+2025-08-20 09:38:25,687 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-20 09:38:25,690 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-20 09:38:25,695 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-20 09:38:25,701 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-20 09:38:25,707 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-20 09:38:25,760 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x0000012C872356D0>. Removing link to WinEvent.EventObjectDestroy.
+2025-08-20 09:38:34,683 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-20 09:38:34,683 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-20 09:38:34,685 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-20 09:38:34,930 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-20 09:38:35,141 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-20 09:38:35,746 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-20 09:38:35,797 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-20 09:38:35,799 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-20 09:39:31,358 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:249]: CLI server received command: stop
+2025-08-20 09:39:31,359 [INFO] [Thread-1 (_run_server)] [root/controller.py:27]: Exiting Application from CLI...
+2025-08-20 09:39:31,459 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-20 09:39:31,459 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-20 09:39:31,480 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-20 09:39:31,489 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-20 09:39:31,490 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-20 09:39:38,417 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-20 09:39:38,417 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-20 09:39:38,418 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-20 09:39:38,676 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-20 09:39:38,898 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-20 09:39:39,351 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-20 09:39:39,402 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-20 09:39:39,402 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-20 09:40:09,543 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:249]: CLI server received command: stop
+2025-08-20 09:40:09,543 [INFO] [Thread-1 (_run_server)] [root/controller.py:27]: Exiting Application from CLI...
+2025-08-20 09:40:09,649 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-20 09:40:09,651 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-20 09:40:09,656 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-20 09:40:09,659 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-20 09:40:09,664 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-20 09:40:09,706 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x00000238913056D0>. Removing link to WinEvent.EventObjectDestroy.
+2025-08-20 09:40:16,489 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-20 09:40:16,490 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-20 09:40:16,490 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-20 09:40:16,751 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-20 09:40:16,965 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-20 09:40:17,438 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-20 09:40:17,485 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-20 09:40:17,488 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-20 09:41:30,652 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-08-20 09:41:30,752 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-20 09:41:30,752 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-20 09:41:30,762 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-20 09:41:30,772 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-20 09:41:30,772 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-20 09:41:32,170 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-20 09:41:32,171 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-20 09:41:32,171 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-20 09:41:32,438 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-20 09:41:32,635 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-20 09:41:33,170 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-20 09:41:33,220 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-20 09:41:33,220 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-20 09:41:58,216 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-08-20 09:41:58,317 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-20 09:41:58,317 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-20 09:41:58,322 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-20 09:41:58,331 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-20 09:41:58,332 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-20 09:41:59,774 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-20 09:41:59,775 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-20 09:41:59,775 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-20 09:42:00,052 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-20 09:42:00,254 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-20 09:42:00,808 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-20 09:42:00,862 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-20 09:42:00,863 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-20 09:45:25,073 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-08-20 09:45:25,174 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-20 09:45:25,174 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-20 09:45:25,647 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-20 09:45:25,656 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-20 09:45:25,658 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-20 09:45:27,139 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-20 09:45:27,140 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-20 09:45:27,140 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-20 09:45:27,417 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-20 09:45:27,702 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-20 09:45:28,241 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-20 09:45:28,295 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-20 09:45:28,296 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-20 09:45:37,394 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-08-20 09:45:37,495 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-20 09:45:37,496 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-20 09:45:37,703 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-20 09:45:37,714 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-20 09:45:37,714 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-20 09:45:38,217 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-20 09:45:38,217 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-20 09:45:38,218 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-20 09:45:38,425 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-20 09:45:38,619 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-20 09:45:39,125 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-20 09:45:39,171 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-20 09:45:39,172 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-20 09:52:20,434 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-08-20 09:52:20,535 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-20 09:52:20,536 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-20 09:52:20,550 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-20 09:52:20,560 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-20 09:52:20,563 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-20 09:52:21,979 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-20 09:52:21,979 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-20 09:52:21,980 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-20 09:52:22,197 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-20 09:52:22,405 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-20 09:52:22,928 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-20 09:52:22,973 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-20 09:52:22,975 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-20 09:53:16,342 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-08-20 09:53:16,443 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-20 09:53:16,443 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-20 09:53:16,458 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-20 09:53:16,467 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-20 09:53:16,469 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-20 09:53:17,935 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-20 09:53:17,936 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-20 09:53:17,936 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-20 09:53:18,140 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-20 09:53:18,336 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-20 09:53:18,859 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-20 09:53:18,901 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-20 09:53:18,902 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-20 10:00:17,439 [DEBUG] [MainThread] [root/volume.py:330]: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{626ea259-bbeb-46c1-850f-8f068ce4879a}
+2025-08-20 10:00:20,005 [DEBUG] [MainThread] [root/volume.py:330]: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{eb31cb45-47d4-46f7-bcf2-ef601ba0867a}
+2025-08-20 10:00:38,097 [DEBUG] [MainThread] [root/volume.py:330]: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{eb31cb45-47d4-46f7-bcf2-ef601ba0867a}
+2025-08-20 10:00:39,204 [DEBUG] [MainThread] [root/volume.py:330]: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{626ea259-bbeb-46c1-850f-8f068ce4879a}
+2025-08-20 10:00:40,381 [DEBUG] [MainThread] [root/volume.py:330]: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{eb31cb45-47d4-46f7-bcf2-ef601ba0867a}
+2025-08-20 10:00:42,455 [DEBUG] [MainThread] [root/volume.py:330]: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{626ea259-bbeb-46c1-850f-8f068ce4879a}
+2025-08-20 11:12:39,535 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-20 11:12:39,536 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-20 11:12:39,537 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-20 11:12:40,425 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-20 11:12:46,361 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-20 11:12:48,165 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-20 11:12:48,243 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-20 11:12:48,245 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-20 11:12:56,503 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-20 11:12:56,505 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-20 11:12:56,505 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-20 11:12:56,505 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-08-20 12:06:46,222 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_cca7f56c)
+2025-08-20 12:06:57,849 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_cca7f56c)
+2025-08-20 14:34:11,112 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-20 14:34:11,114 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-20 14:34:11,115 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-20 14:34:12,184 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-20 14:34:14,795 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-20 14:34:14,796 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-20 14:34:14,797 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-20 14:34:14,798 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-08-20 14:34:17,053 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-20 14:34:19,683 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-20 14:34:19,768 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-20 14:34:19,770 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-21 08:02:49,101 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-21 08:02:49,102 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-21 08:02:49,103 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-21 08:02:49,794 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-21 08:02:54,564 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-21 08:02:56,585 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-21 08:02:56,743 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-21 08:02:56,747 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-21 09:13:13,043 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-21 09:13:13,043 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-21 09:13:13,044 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-21 09:13:13,524 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-21 09:13:16,235 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-21 09:13:18,161 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-21 09:13:18,208 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-21 09:13:18,209 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-21 13:34:33,679 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-21 13:34:33,680 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-21 13:34:33,681 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-21 13:34:34,475 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-21 13:34:38,612 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-21 13:34:39,704 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-21 13:34:39,774 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-21 13:34:39,775 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-21 16:49:20,439 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-21 16:49:20,441 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-21 16:49:20,441 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-21 16:49:21,138 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-21 16:49:24,170 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-21 16:49:25,284 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-21 16:49:25,354 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-21 16:49:25,356 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-21 21:17:04,326 [INFO] [MainThread] [root/utilities.py:115]: Created shortcut at C:\Users\aahan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\yasb.lnk
+2025-08-21 21:17:09,496 [INFO] [MainThread] [root/controller.py:12]: Reloading Application from tray...
+2025-08-21 21:17:09,597 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-21 21:17:09,598 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-21 21:17:10,552 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-21 21:17:10,561 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-21 21:17:10,563 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-21 21:17:13,625 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-21 21:17:13,625 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-21 21:17:13,626 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-21 21:17:14,174 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-21 21:17:17,251 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-21 21:17:19,067 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-21 21:17:19,111 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-21 21:17:19,112 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-21 22:46:47,899 [INFO] [MainThread] [root/controller.py:27]: Exiting Application from tray...
+2025-08-21 22:46:48,005 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-21 22:46:48,006 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-21 22:46:48,013 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-21 22:46:48,022 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-21 22:46:48,026 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-22 10:36:57,492 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-22 10:36:57,493 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-22 10:36:57,494 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-22 10:36:58,373 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-22 10:37:01,927 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-22 10:37:03,250 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-22 10:37:03,310 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-22 10:37:03,312 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-22 13:16:47,393 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_dda4b44a)
+2025-08-22 13:23:14,730 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_dda4b44a)
+2025-08-22 13:52:47,279 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-22 13:52:47,283 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-22 13:52:47,284 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-22 17:40:55,636 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-22 17:40:55,637 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-22 17:40:55,638 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-22 17:40:56,317 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-22 17:40:59,442 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-22 17:41:00,503 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-22 17:41:00,557 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-22 17:41:00,558 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-23 10:22:25,332 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-23 10:22:25,333 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-23 10:22:25,334 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-23 10:22:26,241 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-23 10:22:29,549 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-23 10:22:31,538 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-23 10:22:31,602 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-23 10:22:31,603 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-23 12:52:44,129 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-23 12:52:44,130 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-23 12:52:44,130 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-23 12:52:44,130 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-08-23 12:52:49,804 [INFO] [MainThread] [root/controller.py:12]: Reloading Application from tray...
+2025-08-23 12:52:49,905 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-23 12:52:49,905 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-23 12:52:49,912 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-23 12:52:49,922 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-23 12:52:49,923 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-23 12:52:50,246 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-23 12:52:50,247 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-23 12:52:50,247 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-23 12:52:50,708 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-23 12:52:53,210 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-23 12:52:55,096 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-23 12:52:55,136 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-23 12:52:55,137 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-23 16:52:30,178 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_66b3e4ec)
+2025-08-23 18:31:25,093 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_66b3e4ec)
+2025-08-24 00:35:21,993 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_66b3e4ec)
+2025-08-24 14:23:06,671 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_66b3e4ec)
+2025-08-25 07:59:47,923 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-25 07:59:47,924 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-25 07:59:47,924 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-25 07:59:48,511 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-25 07:59:52,145 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-25 07:59:54,091 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-25 07:59:54,172 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-25 07:59:54,175 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-25 10:22:05,247 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-25 10:22:05,248 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-25 10:22:05,248 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-25 10:22:05,850 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-25 10:22:09,029 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-25 10:22:11,088 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-25 10:22:11,163 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-25 10:22:11,165 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-25 10:43:52,818 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-25 10:43:52,821 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-25 10:43:52,821 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-25 10:49:00,479 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-25 10:49:00,480 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-25 10:49:00,481 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-25 10:49:00,988 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-25 10:49:04,570 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-25 10:49:06,848 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-25 10:49:06,916 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-25 10:49:06,918 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-25 12:55:32,166 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-25 12:55:32,168 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-25 12:55:32,169 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-25 12:55:32,795 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-25 12:55:36,256 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-25 12:55:38,576 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-25 12:55:38,641 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-25 12:55:38,643 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-25 14:59:08,217 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-25 14:59:08,219 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-25 14:59:08,220 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-25 14:59:08,746 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-25 14:59:12,344 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-25 14:59:14,233 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-25 14:59:14,311 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-25 14:59:14,313 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-25 23:28:15,038 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-25 23:28:15,043 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-25 23:28:15,047 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-26 08:10:10,343 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-26 08:10:10,344 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-26 08:10:10,345 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-26 08:10:10,924 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-26 08:10:14,646 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-26 08:10:16,452 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-26 08:10:16,534 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-26 08:10:16,536 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-26 09:59:10,149 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-26 09:59:10,157 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-26 09:59:10,160 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-26 10:46:33,278 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-26 10:46:33,278 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-26 10:46:33,279 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-26 10:46:33,788 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-26 10:46:36,532 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-26 10:46:38,367 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-26 10:46:38,419 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-26 10:46:38,421 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-26 13:55:03,989 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-26 13:55:03,989 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-26 13:55:03,990 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-26 13:55:04,394 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-26 13:55:07,159 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-26 13:55:08,671 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-26 13:55:08,732 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-26 13:55:08,733 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-26 15:55:15,629 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-26 15:55:15,631 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-26 15:55:15,631 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-26 15:55:16,192 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-26 15:55:19,737 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-26 15:55:21,777 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-26 15:55:21,845 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-26 15:55:21,846 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-26 17:01:19,700 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-26 17:01:19,702 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-26 17:01:19,702 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-26 17:01:20,256 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-26 17:01:22,672 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-26 17:01:24,511 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-26 17:01:24,563 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-26 17:01:24,564 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-26 23:58:33,773 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_67553105)
+2025-08-27 08:53:38,699 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_67553105)
+2025-08-27 23:14:35,831 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-27 23:14:35,835 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-27 23:14:35,836 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-28 13:15:23,756 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-28 13:15:23,757 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-28 13:15:23,758 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-28 13:15:24,527 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-28 13:15:28,591 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-28 13:15:31,056 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-28 13:15:31,128 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-28 13:15:31,130 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-28 17:40:13,797 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-28 17:40:13,799 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-28 17:40:13,799 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-28 17:40:14,358 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-28 17:40:17,090 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-28 17:40:19,011 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-28 17:40:19,062 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-28 17:40:19,063 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-29 12:30:01,171 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-29 12:30:01,172 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-29 12:30:01,172 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-29 12:30:01,831 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-29 12:30:05,262 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-29 12:30:06,787 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-29 12:30:06,882 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-29 12:30:06,884 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-29 17:32:40,749 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-29 17:32:40,750 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-29 17:32:40,750 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-29 17:32:41,357 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-29 17:32:44,276 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-29 17:32:45,811 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-29 17:32:45,867 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-29 17:32:45,869 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-29 23:34:49,069 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-29 23:34:49,070 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-29 23:34:49,071 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-29 23:34:49,651 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-29 23:34:52,175 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-29 23:34:53,281 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-29 23:34:53,335 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-29 23:34:53,337 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-29 23:41:57,902 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_7d899480)
+2025-08-30 09:15:40,700 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_7d899480)
+2025-08-31 00:22:29,449 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_7d899480)
+2025-08-31 08:20:31,433 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_7d899480)
+2025-08-31 18:54:11,012 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-31 18:54:11,013 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-31 18:54:11,015 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-31 18:54:11,771 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-31 18:54:16,303 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-31 18:54:19,052 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-31 18:54:19,198 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-31 18:54:19,199 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-31 22:28:33,503 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-08-31 22:28:33,504 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-08-31 22:28:33,505 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-31 22:28:34,075 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-31 22:28:36,540 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-31 22:28:37,601 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-08-31 22:28:37,659 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-31 22:28:37,660 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-01 10:42:58,361 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-01 10:42:58,362 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-01 10:42:58,363 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-01 10:42:59,005 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-01 10:43:01,831 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-01 10:43:02,996 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-01 10:43:03,076 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-01 10:43:03,078 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-01 14:43:28,166 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-01 14:43:28,167 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-01 14:43:28,168 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-01 14:43:28,839 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-01 14:43:32,036 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-01 14:43:32,864 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-01 14:43:32,923 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-01 14:43:32,925 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-02 08:30:27,392 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-02 08:30:27,393 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-02 08:30:27,393 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-02 08:30:28,149 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-02 08:30:32,046 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-02 08:30:34,500 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-02 08:30:34,569 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-02 08:30:34,571 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-02 10:50:15,200 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-02 10:50:15,201 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-02 10:50:15,202 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-02 10:50:15,914 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-02 10:50:19,007 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-02 10:50:21,187 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-02 10:50:21,249 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-02 10:50:21,251 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-02 13:57:25,513 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-02 13:57:25,514 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-02 13:57:25,515 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-02 13:57:26,286 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-02 13:57:29,950 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-02 13:57:32,288 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-02 13:57:32,364 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-02 13:57:32,366 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-02 15:05:55,483 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-09-02 15:05:55,489 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-09-02 15:05:55,498 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-09-02 19:02:53,552 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-02 19:02:53,553 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-02 19:02:53,553 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-02 19:02:54,119 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-02 19:02:56,604 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-02 19:02:57,455 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-02 19:02:57,510 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-02 19:02:57,512 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-03 10:01:58,877 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-03 10:01:58,879 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-03 10:01:58,879 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-03 10:01:59,651 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-03 10:02:03,164 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-03 10:02:04,511 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-03 10:02:04,586 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-03 10:02:04,587 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-03 10:37:05,420 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-03 10:37:05,422 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-03 10:37:05,423 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-03 10:37:06,200 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-03 10:37:10,154 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-03 10:37:12,580 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-03 10:37:12,673 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-03 10:37:12,674 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-03 11:23:05,302 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-03 11:23:05,303 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-03 11:23:05,304 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-03 11:23:06,061 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-03 11:23:09,709 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-03 11:23:11,977 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-03 11:23:12,041 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-03 11:23:12,043 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-03 12:22:59,902 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-03 12:22:59,903 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-03 12:22:59,905 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-03 12:23:00,580 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-03 12:23:03,565 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-03 12:23:05,669 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-03 12:23:05,723 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-03 12:23:05,725 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-03 18:43:43,781 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-03 18:43:43,783 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-03 18:43:43,784 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-03 18:43:44,648 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-03 18:43:48,027 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-03 18:43:50,352 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-03 18:43:50,418 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-03 18:43:50,419 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-03 20:01:11,401 [INFO] [MainThread] [root/controller.py:27]: Exiting Application from tray...
+2025-09-03 20:01:11,503 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-09-03 20:01:11,503 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-09-03 20:01:11,505 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-09-03 20:01:11,510 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-09-03 20:01:11,513 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-09-03 21:21:11,854 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-03 21:21:11,854 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-03 21:21:11,855 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-03 21:21:12,344 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-03 21:21:16,148 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-03 21:21:18,036 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-03 21:21:18,086 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-03 21:21:18,088 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-04 08:13:37,971 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-04 08:13:37,973 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-04 08:13:37,973 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-04 08:13:38,755 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-04 08:13:42,230 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-04 08:13:44,906 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-04 08:13:44,981 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-04 08:13:44,984 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-04 13:52:48,093 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-04 13:52:48,093 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-04 13:52:48,093 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-04 13:52:48,673 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-04 13:52:51,614 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-04 13:52:53,250 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-04 13:52:53,325 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-04 13:52:53,327 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-04 19:29:32,501 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-04 19:29:32,501 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-04 19:29:32,503 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-04 19:29:33,466 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-04 19:29:38,057 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-04 19:29:39,169 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-04 19:29:39,352 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-04 19:29:39,353 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-04 19:29:58,845 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-04 19:29:58,845 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-04 19:29:58,846 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-04 19:29:58,846 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-09-05 12:57:22,871 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-05 12:57:22,872 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-05 12:57:22,872 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-05 12:57:23,818 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-05 12:57:27,083 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-05 12:57:29,540 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-05 12:57:29,600 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-05 12:57:29,601 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-05 12:57:38,192 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-05 12:57:38,192 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-05 12:57:38,193 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-05 12:57:38,193 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-09-05 12:57:58,063 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_c536cc5e)
+2025-09-05 12:59:59,745 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_c536cc5e)
+2025-09-05 13:00:31,613 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_c536cc5e)
+2025-09-05 18:42:22,893 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_c536cc5e)
+2025-09-05 23:11:06,202 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_c536cc5e)
+2025-09-06 18:20:37,266 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_c536cc5e)
+2025-09-07 00:35:45,225 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_c536cc5e)
+2025-09-07 09:47:40,410 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (primary-bar_DISPLAY1_c536cc5e)
+2025-09-07 11:28:04,491 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of screen update...
+2025-09-07 11:28:05,941 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-09-07 11:28:05,942 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-09-07 11:28:07,616 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of screen update...
+2025-09-07 11:28:07,717 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-09-07 11:28:07,717 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-09-07 11:28:07,750 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of screen update...
+2025-09-07 11:28:07,851 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-09-07 11:28:07,851 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-09-07 11:28:23,350 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-07 11:28:23,351 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-07 11:28:23,353 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-07 11:28:24,214 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-07 11:28:27,618 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-07 11:28:29,603 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-07 11:28:29,725 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-07 11:28:29,727 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-07 15:09:52,569 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-07 15:09:52,569 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-07 15:09:52,569 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-07 15:09:53,221 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-07 15:09:56,331 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-07 15:09:57,984 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-07 15:09:58,042 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-07 15:09:58,043 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-08 09:33:38,510 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-08 09:33:38,511 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-08 09:33:38,511 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-08 09:33:39,272 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-08 09:33:44,258 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-08 09:33:46,277 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-08 09:33:46,359 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-08 09:33:46,361 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-08 14:39:12,257 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-08 14:39:12,258 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-08 14:39:12,258 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-08 14:39:12,955 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-08 14:39:16,186 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-08 14:39:17,473 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-08 14:39:17,542 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-08 14:39:17,545 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-08 18:49:11,201 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-08 18:49:11,202 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-08 18:49:11,202 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-08 18:49:11,832 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-08 18:49:14,655 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-08 18:49:15,817 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-08 18:49:15,881 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-08 18:49:15,882 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-09 08:51:37,062 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-09 08:51:37,064 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-09 08:51:37,064 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-09 08:51:38,219 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-09 08:51:42,050 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-09 08:51:43,326 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-09 08:51:43,396 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-09 08:51:43,398 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-09 10:53:29,518 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-09 10:53:29,519 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-09 10:53:29,520 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-09 10:53:30,156 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-09 10:53:33,234 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-09 10:53:35,219 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-09 10:53:35,276 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-09 10:53:35,278 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-09 15:46:49,044 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-09 15:46:49,045 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-09 15:46:49,046 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-09 15:46:49,709 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-09 15:46:52,811 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-09 15:46:53,853 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-09 15:46:53,916 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-09 15:46:53,917 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-09 17:39:18,002 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-09 17:39:18,003 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-09 17:39:18,004 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-09 17:39:18,659 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-09 17:39:21,457 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-09 17:39:22,425 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-09 17:39:22,477 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-09 17:39:22,479 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-10 08:51:56,428 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-10 08:51:56,429 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-10 08:51:56,430 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-10 08:51:57,319 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-10 08:52:01,503 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-10 08:52:03,831 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-10 08:52:03,900 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-10 08:52:03,902 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-10 10:20:30,283 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-09-10 10:20:30,295 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-09-10 10:20:30,299 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-09-10 11:28:43,093 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-10 11:28:43,094 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-10 11:28:43,094 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-10 11:28:43,638 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-10 11:28:46,805 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-10 11:28:48,110 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-10 11:28:48,161 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-10 11:28:48,162 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-10 11:53:51,978 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-09-10 11:53:51,986 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-09-10 11:53:51,995 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-09-10 12:06:58,246 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-10 12:06:58,246 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-10 12:06:58,246 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-10 12:06:59,031 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-10 12:07:03,076 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-10 12:07:04,360 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-10 12:07:04,427 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-10 12:07:04,429 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-10 13:16:12,162 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-10 13:16:12,163 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-10 13:16:12,164 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-10 13:16:13,048 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-10 13:16:18,940 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-10 13:16:20,603 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-10 13:16:20,706 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-10 13:16:20,708 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-10 13:16:39,471 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-10 13:16:39,472 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-10 13:16:39,472 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-10 13:16:39,472 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-09-10 18:10:53,139 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-10 18:10:53,140 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-10 18:10:53,141 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-10 18:10:53,770 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-10 18:10:56,697 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-10 18:10:57,627 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-10 18:10:57,679 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-10 18:10:57,680 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-11 08:21:31,149 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-11 08:21:31,150 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-11 08:21:31,151 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-11 08:21:32,212 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-11 08:21:36,356 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-11 08:21:38,645 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-11 08:21:38,720 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-11 08:21:38,722 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-11 08:22:16,052 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-11 08:22:16,052 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-11 08:22:16,052 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-11 08:22:16,052 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-09-11 10:51:07,600 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-11 10:51:07,601 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-11 10:51:07,601 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-11 10:51:08,217 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-11 10:51:10,768 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-11 10:51:11,564 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-11 10:51:11,617 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-11 10:51:11,618 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-11 14:02:57,182 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-11 14:02:57,182 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-11 14:02:57,183 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-11 14:02:57,954 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-11 14:03:01,436 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-11 14:03:03,690 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-11 14:03:03,751 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-11 14:03:03,752 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-11 16:52:01,459 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-11 16:52:01,461 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-11 16:52:01,461 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-11 16:52:02,282 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-11 16:52:05,832 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-11 16:52:07,497 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-11 16:52:07,548 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-11 16:52:07,550 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-12 08:08:04,802 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-12 08:08:04,803 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-12 08:08:04,804 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-12 08:08:05,724 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-12 08:08:10,030 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-12 08:08:11,921 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-12 08:08:11,996 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-12 08:08:12,000 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-12 12:23:18,540 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-12 12:23:18,541 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-12 12:23:18,542 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-12 12:23:19,309 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-12 12:23:23,064 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-12 12:23:25,372 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-12 12:23:25,442 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-12 12:23:25,443 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-12 18:19:26,490 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-12 18:19:26,491 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-12 18:19:26,492 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-12 18:19:27,067 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-12 18:19:29,542 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-12 18:19:30,444 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-12 18:19:30,492 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-12 18:19:30,493 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-15 10:59:20,630 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-15 10:59:20,631 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-15 10:59:20,631 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-15 10:59:20,632 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-15 10:59:20,632 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-15 10:59:20,632 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-09-15 10:59:21,438 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-15 10:59:25,523 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-15 10:59:27,747 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-15 10:59:27,847 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-15 10:59:27,849 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-15 12:27:26,823 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-15 12:27:26,825 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-15 12:27:26,827 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-15 12:27:28,369 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-15 12:27:33,451 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-15 12:27:35,306 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-15 12:27:35,395 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-15 12:27:35,397 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-15 12:38:13,850 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-15 12:38:13,851 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-15 12:38:13,852 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-15 12:38:14,538 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-15 12:38:18,675 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-15 12:38:19,821 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-15 12:38:19,891 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-15 12:38:19,892 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-15 14:12:39,712 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-15 14:12:39,714 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-15 14:12:39,715 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-15 14:12:40,479 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-15 14:12:45,040 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-15 14:12:46,116 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-15 14:12:46,174 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-15 14:12:46,176 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-15 18:59:11,853 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-15 18:59:11,854 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-15 18:59:11,855 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-15 18:59:12,474 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-15 18:59:15,471 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-15 18:59:16,696 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-15 18:59:16,752 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-15 18:59:16,753 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-16 08:25:08,648 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-16 08:25:08,649 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-16 08:25:08,650 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-16 08:25:09,380 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-16 08:25:12,589 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-16 08:25:13,585 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-16 08:25:13,645 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-16 08:25:13,648 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-16 10:49:01,674 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-16 10:49:01,676 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-16 10:49:01,676 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-16 10:49:02,486 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-16 10:49:05,557 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-16 10:49:06,495 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-16 10:49:06,566 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-16 10:49:06,568 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-16 11:32:46,500 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-16 11:32:46,501 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-16 11:32:46,501 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-16 11:32:47,187 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-16 11:32:50,463 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-16 11:32:51,340 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-16 11:32:51,399 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-16 11:32:51,401 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-16 12:28:18,376 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-16 12:28:18,377 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-16 12:28:18,378 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-16 12:28:19,147 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-16 12:28:23,135 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-16 12:28:24,398 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-16 12:28:24,460 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-16 12:28:24,461 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-16 12:59:35,269 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-16 12:59:35,271 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-16 12:59:35,272 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-16 12:59:35,886 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-16 12:59:38,837 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-16 12:59:40,433 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-16 12:59:40,508 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-16 12:59:40,511 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-16 13:39:46,879 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-16 13:39:46,880 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-16 13:39:46,881 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-16 13:39:47,653 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-16 13:39:51,736 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-16 13:39:54,137 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-16 13:39:54,207 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-16 13:39:54,209 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-16 14:38:12,339 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-16 14:38:12,340 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-16 14:38:12,341 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-16 14:38:13,214 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-16 14:38:17,925 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-16 14:38:19,487 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-16 14:38:19,595 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-16 14:38:19,597 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-16 16:06:20,255 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-16 16:06:20,255 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-16 16:06:20,257 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-16 16:06:20,945 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-16 16:06:24,212 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-16 16:06:25,581 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-16 16:06:25,642 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-16 16:06:25,643 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-16 16:32:47,822 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-16 16:32:47,824 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-16 16:32:47,825 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-16 16:32:48,625 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-16 19:09:49,051 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-16 19:09:49,051 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-16 19:09:49,052 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-16 19:09:49,591 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-16 19:09:52,250 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-16 19:09:54,199 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-16 19:09:54,246 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-16 19:09:54,247 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-16 19:09:55,771 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-16 19:09:55,771 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-16 19:09:55,772 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-16 19:09:55,772 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-09-17 10:07:33,120 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-17 10:07:33,121 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-17 10:07:33,122 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-17 10:07:33,982 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-17 10:07:37,835 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-17 10:07:39,533 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-17 10:07:39,633 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-17 10:07:39,635 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-17 13:38:53,199 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-17 13:38:53,200 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-17 13:38:53,200 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-17 13:38:54,093 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-17 13:38:57,888 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-17 13:38:58,983 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-17 13:38:59,051 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-17 13:38:59,053 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-17 17:50:00,023 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-17 17:50:00,025 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-17 17:50:00,025 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-17 17:50:00,825 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-17 17:50:04,724 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-17 17:50:05,644 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-17 17:50:05,707 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-17 17:50:05,709 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-18 08:09:53,214 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-18 08:09:53,215 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-18 08:09:53,216 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-18 08:09:53,986 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-18 08:09:57,680 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-18 08:09:58,977 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-18 08:09:59,035 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-18 08:09:59,038 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-18 10:35:58,034 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-18 10:35:58,035 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-18 10:35:58,036 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-18 10:35:58,676 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-18 10:36:01,828 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-18 10:36:03,557 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-18 10:36:03,618 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-18 10:36:03,620 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-09-18 17:13:46,147 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.4
+2025-09-18 17:13:46,148 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.1
+2025-09-18 17:13:46,149 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-09-18 17:13:46,776 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-09-18 17:13:49,989 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-09-18 17:13:51,816 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\aahan\.config\yasb
+2025-09-18 17:13:51,880 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-09-18 17:13:51,882 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
